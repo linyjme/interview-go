@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coding-Interviews-Golang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Golang-Interview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang-design-pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interview-go" vcs="Git" />
+  </component>
+</project>
